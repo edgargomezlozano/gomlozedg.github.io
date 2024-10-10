@@ -1,2 +1,4 @@
-title: Cristóbal Colón en América
-nav_order: 2
+---
+title: Cristóbal Colón
+nav_order: 1
+---
