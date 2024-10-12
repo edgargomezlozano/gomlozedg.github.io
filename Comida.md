@@ -7,6 +7,6 @@ nav_order: 3
 ¿Te gusta cocinar? 
 ¡Pues no te pierdas estas tres recetas!
 
-1- Ternera con salsa de boletus.
-2- Magdalenas esponjosas con yogur griego.
-3- Snacks de pollo crujientes.
+1. Ternera con salsa de boletus.
+2. Magdalenas esponjosas con yogur griego.
+3. Snacks de pollo crujientes.
