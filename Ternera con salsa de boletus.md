@@ -4,7 +4,7 @@ layout: home
 parent: Recetas de Cocina
 nav_order: 1
 ---
-# Ternera con salsa de boletus 
+# **Ternera con salsa de boletus** 
 
 ![Ternera con salsa de boletus](https://content-cocina.lecturas.com/medio/2018/07/19/ternera-con-salsa-de-boletus_8e19c012_800x800.jpg)
 
