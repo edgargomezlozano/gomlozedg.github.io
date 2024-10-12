@@ -1,5 +1,6 @@
 ---
 title: Recetas de Cocina
+layout: home
 nav_order: 3
 ---
 # Recetas de Cocina
