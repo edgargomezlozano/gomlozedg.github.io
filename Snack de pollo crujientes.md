@@ -4,7 +4,7 @@ layout: home
 parent: Recetas de Cocina
 nav_order: 3
 ---
-# Snacks de pollo crujientes
+# **Snacks de pollo crujientes**
 ![Snacks de pollo crujientes](https://content-cocina.lecturas.com/medio/2022/09/05/cortezas-de-piel-de-pollo_99616dc4_900x900.jpg)
 
 
