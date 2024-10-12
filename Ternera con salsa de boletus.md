@@ -38,6 +38,6 @@ Saltea los boletus que restan con un hilo de aceite y el tomillo un par de minut
 5. _Sirve con la salsa_
 Sirve los boletus con los solomillos con la salsa bien caliente y espolvoreados con perejil.
 
-¡[Más información en:](https://www.lecturas.com/recetas/ternera-salsa-boletus_4886.html)
+[Más información y resultado](https://www.lecturas.com/recetas/ternera-salsa-boletus_4886.html)
 
 
