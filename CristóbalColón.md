@@ -9,5 +9,4 @@ Fue un navegante, cartógrafo, almirante, virrey y gobernador general de las Ind
 
 ![Cristóbal Colón](https://s1.elespanol.com/2018/07/17/social/cristobal_colon-historia-independentismo_323229650_87425538_1706x960.jpg)
 
-
-https://es.wikipedia.org/wiki/Crist%C3%B3bal_Col%C3%B3n#:~:text=Fue%20un%20navegante%2C%20cart%C3%B3grafo%2C%20almirante,de%20Guanahani%2C%20en%20las%20Bahamas.
+__¿Quieres saber más sobre Cristobal Colón? [Pincha aquí](https://es.wikipedia.org/wiki/Crist%C3%B3bal_Col%C3%B3n).
