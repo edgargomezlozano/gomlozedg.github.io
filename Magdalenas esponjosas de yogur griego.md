@@ -4,6 +4,7 @@ layout: home
 parent: Recetas de Cocina
 nav_order: 2
 ---
+# **MAgdalenas esponjosas con yogur griego**
 ![Magdalenas esponjosas de yogur griego](https://i.ytimg.com/vi/-2aUPmh8Qyo/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLByAG_ctlM96-8PWl6FRGkeJEgtVw)
 
 **Ingredientes**
