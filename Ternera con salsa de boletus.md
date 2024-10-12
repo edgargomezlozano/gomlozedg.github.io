@@ -1,5 +1,6 @@
 ---
 title: Ternera con salsa de boletus
+layout: home
 parent: Recetas de Cocina
 nav_order: 1
 ---
