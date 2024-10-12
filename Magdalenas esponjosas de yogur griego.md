@@ -1,5 +1,6 @@
 ---
 title: Magdalenas esponjosas de yogur griego
+layout: home
 parent: Recetas de Cocina
 nav_order: 3
 ---
