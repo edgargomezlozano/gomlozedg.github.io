@@ -43,4 +43,4 @@ Para que las magdalenas tengan la forma deseada, necesitarás un molde especial,
 7. _Hornea las magdalenas_<br>
 Es el momento de introducir las magdalenas en el horno. Baja la temperatura 170º y cuécelas a media altura y sin ventilador durante 13-15 minutos, hasta que hayan doblado su volumen y estén doradas. Retira el molde del horno y deja enfriar las magdalenas, en las cápsulas de papel, sobre una rejilla.
 
-[Más información aquí](https://www.lecturas.com/recetas/receta-facil-abuela-magdalenas-esponjosas-yogur-griego-delicia-para-desayuno_12422.html)
+[Para más información pincha aquí](https://www.lecturas.com/recetas/receta-facil-abuela-magdalenas-esponjosas-yogur-griego-delicia-para-desayuno_12422.html)
