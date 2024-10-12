@@ -4,7 +4,7 @@ layout: home
 nav_order: 4
 ---
 
-# HP 15S-EQ2191NS AMD Ryzen 7 5700U/16GB/1TB SSD/15.6"
+# **HP 15S-EQ2191NS AMD Ryzen 7 5700U/16GB/1TB SSD/15.6"**
 ## 699,00 €
 ### ¡Envío gratis!
 
