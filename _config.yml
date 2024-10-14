@@ -5,6 +5,7 @@ theme: just-the-docs
 url: https://edgargomezlozano.github.io
 
 favican_ico: https://img.freepik.com/vector-gratis/cuadricula-globo-internet-www_78370-2008.jpg?size=338&ext=jpg&ga=GA1.1.2082370165.1728691200&semt=ais_hybrid
+
 nav_external_links:
   - title: Historia de la Wikipedia
     url: https://es.wikipedia.org/wiki/Wikipedia:Portada
