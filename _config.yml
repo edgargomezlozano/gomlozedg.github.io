@@ -8,7 +8,7 @@ favican_ico: https://img.freepik.com/vector-gratis/cuadricula-globo-internet-www
 nav_external_links:
   - title: Historia de la Wikipedia
     url: https://es.wikipedia.org/wiki/Wikipedia:Portada
-    hide_icon: false 
+    hide_icon: true 
     opens_in_new_tab: false 
 
 aux_links:
