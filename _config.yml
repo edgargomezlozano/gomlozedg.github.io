@@ -9,7 +9,7 @@ nav_external_links:
   - title: Historia de la Wikipedia
     url: https://es.wikipedia.org/wiki/Wikipedia:Portada
     hide_icon: false 
-    opens_in_new_tab: false 
+    opens_in_new_tab: true 
 
 aux_links:
   Template Repository: https://github.com/edgargomezlozano.github.io/Página de Edgar
